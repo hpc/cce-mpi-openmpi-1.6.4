@@ -146,9 +146,9 @@ static int opal_carto_file_parse(const char *cartofile)
         "Integer",
         "Name",
         "Node connection",
-        "Undefined"
-        "Undefined"
-        "Undefined"
+        "Undefined",
+        "Undefined",
+        "Undefined",
     };
 
     /* set the done flag to false. at the end of file the the lexical analyzer will set it to true */
